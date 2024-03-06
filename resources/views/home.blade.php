@@ -10,6 +10,6 @@
 <body>
 
   <h1>Hello World</h1>
-
+  <p>Pagina iniziale di {{$name}} {{$surname}}</p>
 </body>
 </html>
