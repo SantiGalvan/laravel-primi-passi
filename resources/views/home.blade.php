@@ -9,6 +9,12 @@
 </head>
 <body>
 
+    <header>
+        <ul>
+            <li><a href="{{route('user')}}">User</a></li>
+        </ul>
+    </header>
+
   <h1>Hello World</h1>
   <p>Pagina iniziale di {{$name}} {{$surname}}</p>
 </body>
